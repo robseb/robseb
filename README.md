@@ -1,7 +1,12 @@
-### Hi there 👋
+### Robin Sebastian (*[rsyocto GmbH & Co. KG](https://rsyocto.com/)*)
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=robseb&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robseb&count_private=true&show_icons=true&layout=compact)
+
 
 <!--
 **robseb/robseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
